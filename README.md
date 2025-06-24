@@ -55,10 +55,10 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 ---
 
 ## 🛠 Tools & Technologies  
-![Power BI](https://img.shields.io/badge/PowerBI-Data--Viz-yellow?style=flat-square&logo=powerbi)  
-![SQL](https://img.shields.io/badge/SQL-Querying-blue?style=flat-square&logo=sqlite)  
-![Excel](https://img.shields.io/badge/Excel-Dashboards-brightgreen?style=flat-square&logo=microsoft-excel)  
-![Tableau](https://img.shields.io/badge/Tableau-Visual--Analytics-orange?style=flat-square&logo=tableau)
+![Power BI](https://github.com/yas324/powerbi-projects)  
+![SQL](https://github.com/yas324/sql-projects)  
+![Excel](https://github.com/yas324/excel-projects)  
+![Tableau](https://github.com/yas324/tableau-projects)
 
 ---
 
