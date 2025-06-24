@@ -54,11 +54,29 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 
 ---
 
-## 🛠 Tools & Technologies  
-![Power BI](https://github.com/yas324/powerbi-projects)  
-![SQL](https://github.com/yas324/sql-projects)  
-![Excel](https://github.com/yas324/excel-projects)  
-![Tableau](https://github.com/yas324/tableau-projects)
+## 🛠 Tools & Technologies
+
+<p align="left">
+
+  <img src="https://img.icons8.com/color/24/000000/power-bi.png" alt="Power BI"/>
+  <a href="https://github.com/yas324/powerbi-projects" target="_blank">Power BI</a>  
+  <br>
+
+  <img src="https://img.icons8.com/ios-filled/24/000000/sql.png" alt="SQL"/>
+  <a href="https://github.com/yas324/sql-projects" target="_blank">SQL</a>  
+  <br>
+
+  <img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
+  <a href="https://github.com/yas324/excel-projects" target="_blank">Excel</a>  
+  <br>
+
+  <img src="https://img.icons8.com/color/24/000000/tableau-software.png" alt="Tableau"/>
+  <a href="https://github.com/yas324/tableau-projects" target="_blank">Tableau</a>
+
+</p>
+
+
+
 
 ---
 
