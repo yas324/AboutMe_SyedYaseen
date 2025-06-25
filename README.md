@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 ### 🔸 Power BI Dashboards  
 - Built interactive reports with KPI cards, slicers, dynamic measures, and advanced **DAX** to track business metrics effectively.  
 - **Example Visuals**:  
-  ![Power BI Dashboard](https://github.com/your-username/your-repo-name/assets/powerbi-sample.png)
+  ![Power BI Dashboard](https://github.com/yas324/powerbi-projects/blob/main/loan-dashboard/Report%201.JPG)
 
 ### 🔸 SQL Data Analysis  
 - Wrote optimized queries for data extraction, cleaning, and transformation using **joins, subqueries, and aggregations**.  
@@ -45,12 +45,12 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 ### 🔸 Excel Analytics  
 - Developed sales & performance dashboards using **PivotTables**, slicers, and formulas.  
 - Automated reporting with formulas like `INDEX-MATCH`, `IF`, `VLOOKUP`, and conditional formatting.  
-- ![Excel Dashboard](https://github.com/your-username/your-repo-name/assets/excel-dashboard.png)
+- ![Excel Dashboard](https://github.com/yas324/excel-projects/blob/main/insurance-dashboard/Report.JPG)
 
 ### 🔸 Tableau Visualizations  
 - Created story-driven dashboards with charts, maps, filters, and calculated fields to uncover insights visually.  
 - Focused on usability and trend representation through dynamic visuals.  
-- ![Tableau Dashboard](https://github.com/your-username/your-repo-name/assets/tableau-sample.png)
+- ![Tableau Dashboard](https://github.com/yas324/tableau-projects/blob/main/insurance-dashboard/T_Report.JPG)
 
 ---
 
