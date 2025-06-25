@@ -80,19 +80,12 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 
 ---
 
+## 🔗 Portfolio
+🌐 [syedyaseen.carrd.co](https://syedyaseen.carrd.co)
+
+---
+
 ## 📬 Let's Connect
-
-<p align="left">
-  <img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn"/>
-  <a href="https://www.linkedin.com/in/syed-yaseen-immediate-joiner-4a8258236/" target="_blank">LinkedIn</a>
-</p>
-
-<p align="left">
-  <img src="https://static.naukimg.com/s/4/100/i/naukri_Logo.png" alt="Naukri" width="24"/>
-  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">Naukri</a>
-</p>
-
-
 📧 **Email**: syedengineer324@gmail.com
 
 ---
