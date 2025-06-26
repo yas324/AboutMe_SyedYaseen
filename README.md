@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 ---
 
 ## 🔗 Portfolio
-🌐 [syedyaseen.carrd.co](https://syedyaseen.carrd.co)
+🌐 [syedyaseen.carrd.co](https://syedyaseen324.carrd.co/)
 
 ---
 
