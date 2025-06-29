@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 ### 🔸 SQL Data Analysis  
 - Wrote optimized queries for data extraction, cleaning, and transformation using **joins, subqueries, and aggregations**.  
 - Used SQL to power BI reports and Excel dashboards for automated data flows.  
-- ![SQL Query Sample](https://github.com/your-username/your-repo-name/assets/sql-sample.png)
+- ![SQL Query Sample](https://github.com/yas324/sql-projects/blob/main/insurance-dashboard/query_05_meeting_count.png)
 
 ### 🔸 Excel Analytics  
 - Developed sales & performance dashboards using **PivotTables**, slicers, and formulas.  
@@ -81,7 +81,8 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 ---
 
 ## 🔗 Portfolio
-🌐 [syedyaseen.carrd.co](https://syedyaseen324.carrd.co/)
+
+[![🌐 Portfolio - syedyaseen324.carrd.co](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://syedyaseen324.carrd.co/)
 
 ---
 
