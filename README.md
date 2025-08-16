@@ -76,8 +76,13 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
    
 
   <img src="https://img.icons8.com/ios-filled/24/000000/resume.png" alt="Resume"/>
-  <a href="https://github.com/yas324/Resume" target="_blank">Resume</a>  
- 
+  <a href="https://github.com/yas324/Resume" target="_blank">Resume</a>
+   <br>
+   
+
+  <img src="https://img.icons8.com/ios-glyphs/24/000000/github.png" alt="GitHub"/> 
+  <a href="https://github.com/yas324" target="_blank">My Profile (Home)</a>  
+
 
 </p>
 
