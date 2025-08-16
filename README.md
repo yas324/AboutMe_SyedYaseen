@@ -72,6 +72,12 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 
   <img src="https://img.icons8.com/color/24/000000/tableau-software.png" alt="Tableau"/>
   <a href="https://github.com/yas324/tableau-projects" target="_blank">Tableau</a>
+   <br>
+   
+
+  <img src="https://img.icons8.com/ios-filled/24/000000/resume.png" alt="Resume"/>
+  <a href="https://github.com/yas324/Resume" target="_blank">Resume</a>  
+ 
 
 </p>
 
