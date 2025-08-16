@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Explore My Repositories
 
 <p align="left">
 
