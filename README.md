@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 ---
 
 ## 🔍 About Me  
-✔ **1 year of experience** as an Assistant Professor, currently pursuing a **Data Analyst internship**  
+✔ **9 months of experience** as a **Data Analyst intern**  
 ✔ Gaining hands-on experience with real-time dashboards, reports, and storytelling using **Power BI, SQL, Excel, and Tableau**  
 ✔ Passionate about leveraging **data-driven insights** to optimize decision-making and business performance  
 ✔ Skilled in **DAX calculations, data modeling, and interactive dashboard design**
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 
 ## 💼 Internship Experience  
 **Data Analyst Intern**  
-📍 ExcelR Solutions | 📅 Jan 2024 – Present  
+📍 ExcelR Solutions |AI Variant | 📅 Nov 2024 – Aug 2025  
 - Working on real-world datasets to create interactive dashboards and reports  
 - Building KPIs, data models, and automating insights using Power BI, SQL & Excel  
 - Gaining hands-on experience in business problem-solving using data visualization tools
