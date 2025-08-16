@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 ---
 
 ## 🔍 About Me  
-✔ **9 months of experience** as a **Data Analyst intern**  
+✔ **9 months of experience** as a **Data Analyst intern** at **AI Variant** 
 ✔ Gaining hands-on experience with real-time dashboards, reports, and storytelling using **Power BI, SQL, Excel, and Tableau**  
 ✔ Passionate about leveraging **data-driven insights** to optimize decision-making and business performance  
 ✔ Skilled in **DAX calculations, data modeling, and interactive dashboard design**
