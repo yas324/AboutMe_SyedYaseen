@@ -93,7 +93,9 @@ Welcome to my GitHub profile! I'm a **Data Analyst** passionate about transformi
 
 ## 🔗 Portfolio
 
-[![🌐 Portfolio - syedyaseen324.carrd.co](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://syedyaseen324.carrd.co/)
+<a href="https://syedyaseen324.carrd.co/">
+  <img src="Badge%201.png" alt="Badge" width="150">
+</a>
 
 ---
 
